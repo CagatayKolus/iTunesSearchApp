@@ -118,7 +118,6 @@ Makefile
 .idea
 .gradle
 /local.properties
-gradle/
 gradlew.bat
 gradlew
 /androidTest/.externalNativeBuild
