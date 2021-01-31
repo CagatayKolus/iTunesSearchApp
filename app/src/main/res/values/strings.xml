@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">iTunes Search App</string>
+    <string name="menu_filter_list">Filter</string>
+    <string name="menu_search">Search</string>
+    <string name="empty_results">No result found.</string>
+    <string name="error_network">No internet connection. Check your connection and try again.</string>
+    <string name="error_message">Oops! Something went wrong.</string>
+
+    <string-array name="menu_array">
+        <item>MOVIE</item>
+        <item>MUSIC</item>
+        <item>SOFTWARE</item>
+        <item>EBOOK</item>
+    </string-array>
+</resources>
